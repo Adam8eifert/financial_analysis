@@ -21,3 +21,6 @@ venv/
 visualizations/
 *.html
 *.csv
+
+#data
+data/
