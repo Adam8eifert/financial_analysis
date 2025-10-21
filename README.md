@@ -1,7 +1,5 @@
 # 💹 Financial Analysis Dashboard / Finanční analytický přehled
 
----
-
 ## 🇬🇧 English Version
 
 ### 🧾 Project Overview
@@ -22,11 +20,10 @@ Using Python and interactive visualizations, it demonstrates how discounts influ
 - **Jupyter Notebook** – exploratory analysis  
 
 ### 📊 Visualizations
-
-| Visualization | Description | Preview |
-|----------------|-------------|----------|
-| `profit_vs_discount.html` | Interactive scatter showing relationship between discounts and profit | ![Profit vs Discount](visualizations/previews/profit_vs_discount.png) |
-| `profit_by_segment_country.html` | Interactive bar chart comparing profit by segment and country | ![Profit by Segment and Country](visualizations/previews/profit_by_segment_country.png) |
+| Visualization | Description |
+|----------------|-------------|
+| `profit_vs_discount.html` | Interactive scatter showing relationship between discounts and profit |
+| `profit_by_segment_country.html` | Interactive bar chart comparing profit by segment and country |
 
 ---
 
@@ -50,12 +47,12 @@ Pomocí Pythonu a interaktivních grafů ukazuje, jak slevy ovlivňují ziskovos
 - **Jupyter Notebook** – průzkumná analýza  
 
 ### 📊 Vizualizace
-
-| Soubor | Popis | Náhled |
-|---------|--------|--------|
-| `profit_vs_discount.html` | Interaktivní bodový graf vztahu mezi slevami a ziskem | ![Profit vs Discount](visualizations/previews/profit_vs_discount.png) |
-| `profit_by_segment_country.html` | Interaktivní sloupcový graf porovnávající zisk podle segmentu a země | ![Profit by Segment and Country](visualizations/previews/profit_by_segment_country.png) |
+| Soubor | Popis |
+|---------|--------|
+| `profit_vs_discount.html` | Interaktivní bodový graf vztahu mezi slevami a ziskem |
+| `profit_by_segment_country.html` | Interaktivní sloupcový graf porovnávající zisk podle segmentu a země |
 
 ---
 
 **Author / Autor:** Adam Seifert  
+
