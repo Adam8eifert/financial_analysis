@@ -19,11 +19,6 @@ Using Python and interactive visualizations, it demonstrates how discounts influ
 - **Matplotlib / Seaborn** – static charts  
 - **Jupyter Notebook** – exploratory analysis  
 
-### 📊 Visualizations
-| Visualization | Description |
-|----------------|-------------|
-| `profit_vs_discount.html` | Interactive scatter showing relationship between discounts and profit |
-| `profit_by_segment_country.html` | Interactive bar chart comparing profit by segment and country |
 
 ---
 
@@ -45,14 +40,6 @@ Pomocí Pythonu a interaktivních grafů ukazuje, jak slevy ovlivňují ziskovos
 - **Plotly Express** – interaktivní vizualizace (HTML export)  
 - **Matplotlib / Seaborn** – statické grafy  
 - **Jupyter Notebook** – průzkumná analýza  
-
-### 📊 Vizualizace
-| Soubor | Popis |
-|---------|--------|
-| `profit_vs_discount.html` | Interaktivní bodový graf vztahu mezi slevami a ziskem |
-| `profit_by_segment_country.html` | Interaktivní sloupcový graf porovnávající zisk podle segmentu a země |
-
----
 
 **Author / Autor:** Adam Seifert  
 
