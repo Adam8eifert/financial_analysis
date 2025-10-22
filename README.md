@@ -11,7 +11,7 @@ Using Python and interactive visualizations, it demonstrates how discounts influ
 - *Government* often remains profitable even with higher discounts.  
 - The **Enterprise** and **Small Business** segments generate the highest profit across most countries.  
 - Interactive Plotly visualizations make it easy to explore patterns between discounts, profit, and sales volume.
-- 🧭 [Sales by Segment](https://Adam8eifert.github.io/financial_analysis/docs/sales_by_segment.html)  
+- 🧭 [Sales by Segment](https://Adam8eifert.github.io/financial_analysis/docs/profit_by_segment_country.html)  
 - 💰 [Profit vs. Discount](https://Adam8eifert.github.io/financial_analysis/docs/profit_vs_discount.html)
 
 ### 🛠️ Technologies Used
