@@ -11,6 +11,8 @@ Using Python and interactive visualizations, it demonstrates how discounts influ
 - *Government* often remains profitable even with higher discounts.  
 - The **Enterprise** and **Small Business** segments generate the highest profit across most countries.  
 - Interactive Plotly visualizations make it easy to explore patterns between discounts, profit, and sales volume.
+- 🧭 [Sales by Segment](https://adam8eifert.github.io/financial_analysis/docs/sales_by_segment.html)  
+- 💰 [Profit vs. Discount](https://adam8eifert.github.io/financial_analysis/docs/profit_vs_discount.html)
 
 ### 🛠️ Technologies Used
 - **Python 3.12**
@@ -18,7 +20,6 @@ Using Python and interactive visualizations, it demonstrates how discounts influ
 - **Plotly Express** – interactive visualizations (HTML export)  
 - **Matplotlib / Seaborn** – static charts  
 - **Jupyter Notebook** – exploratory analysis  
-
 
 ---
 
@@ -33,6 +34,8 @@ Pomocí Pythonu a interaktivních grafů ukazuje, jak slevy ovlivňují ziskovos
 - Segment *Government* zůstává ziskový i při vyšších slevách.  
 - **Enterprise** a **Small Business** přinášejí největší zisky napříč většinou zemí.  
 - Interaktivní grafy z Plotly umožňují přehledně zkoumat vztahy mezi slevami, ziskem a objemem prodeje.
+- 🧭 [Prodeje podle segmentu](https://adam8eifert.github.io/financial_analysis/docs/sales_by_segment.html)  
+- 💰 [Zisk vs. Sleva](https://adam8eifert.github.io/financial_analysis/docs/profit_vs_discount.html)
 
 ### 🛠️ Použité technologie
 - **Python 3.12**
