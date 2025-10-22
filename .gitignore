@@ -17,10 +17,5 @@ venv/
 # VSCode
 .vscode/
 
-# Output
-visualizations/
-*.html
-*.csv
-
 #data
 data/
