@@ -34,8 +34,8 @@ Pomocí Pythonu a interaktivních grafů ukazuje, jak slevy ovlivňují ziskovos
 - Segment *Government* zůstává ziskový i při vyšších slevách.  
 - **Enterprise** a **Small Business** přinášejí největší zisky napříč většinou zemí.  
 - Interaktivní grafy z Plotly umožňují přehledně zkoumat vztahy mezi slevami, ziskem a objemem prodeje.
-- 🧭 [Prodeje podle segmentu](https://adam8eifert.github.io/financial_analysis/docs/sales_by_segment.html)  
-- 💰 [Zisk vs. Sleva](https://adam8eifert.github.io/financial_analysis/docs/profit_vs_discount.html)
+- 🧭 [Prodeje podle segmentu](https://adam8eifert.github.io/financial_analysis/profit_by_segment_country.html)  
+- 💰 [Zisk vs. Sleva](https://adam8eifert.github.io/financial_analysis/profit_vs_discount.html)
 
 ### 🛠️ Použité technologie
 - **Python 3.12**
